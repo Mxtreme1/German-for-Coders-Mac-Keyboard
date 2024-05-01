@@ -1,6 +1,15 @@
 # German-for-Coders-Mac-Keyboard
 A keyboard for Mac using German layout but with optimised positioning of [,],{,},~ and \.
 
+| Command     | New Output | Original Output |
+|-------------|------------|-----------------|
+| [ALT] + ü   | [          | •               |
+| [ALT] + [+] | ]          | ±               |
+| [ALT] + ä   | {          | æ               |
+| [ALT] + #   | }          | ‘ (not '`´)     |
+| [ALT] + .   | ~          | …               |
+| [ALT] + -   | \          | –               |
+
 
 ## Installation:
 
