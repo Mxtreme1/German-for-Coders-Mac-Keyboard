@@ -21,7 +21,7 @@ There are three ways to install a new keyboard layout on Mac:
    Choose a folder for the keyboard layout to saved in.
 
 ### Step 2:
-Log out and in of your Account.
+Log out of and back in to your Account.
 
 ### Step 3:
 Choose your new Keyboard Layout under the Keyboard setting by going to "Text Input" and clicking "Edit".
